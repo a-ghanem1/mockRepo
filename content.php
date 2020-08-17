@@ -28,5 +28,4 @@
         echo "yoydc";
         echo "ltpfq";
         echo "otjqy";
-        echo "dnake";
 ?>
