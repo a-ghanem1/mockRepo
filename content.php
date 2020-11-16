@@ -11,5 +11,4 @@
         echo "vjghj";
         echo "odqwg";
         echo "wckav";
-        echo "vehuj";
 ?>
