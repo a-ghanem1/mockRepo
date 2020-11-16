@@ -43,5 +43,4 @@
         echo "nccnq";
         echo "ogrsa";
         echo "ldodn";
-        echo "rwpqd";
 ?>
