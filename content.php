@@ -46,5 +46,4 @@
         echo "actyk";
         echo "tbijh";
         echo "bbulg";
-        echo "rqgwv";
 ?>
