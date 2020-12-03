@@ -26,5 +26,4 @@
         echo "fsxfl";
         echo "nnnxn";
         echo "ganwh";
-        echo "gxrox";
 ?>
