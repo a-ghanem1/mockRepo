@@ -71,5 +71,4 @@
         echo "rrlry";
         echo "obnrv";
         echo "pratj";
-        echo "pkrcw";
 ?>
