@@ -51,5 +51,4 @@
         echo "swmuh";
         echo "mymre";
         echo "qwffi";
-        echo "bbqrb";
 ?>
